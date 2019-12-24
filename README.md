@@ -11,5 +11,5 @@ Segmentation of internal organs with abdominal CT scans
 * sklearn - version 0.22
 * plotly - version 4.4.1
 
->**Install Requirements:**
+>**Platform:**
 Ubuntu 18.04.3 LTS x64 
