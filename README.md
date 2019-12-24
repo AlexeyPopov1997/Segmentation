@@ -10,3 +10,6 @@ Segmentation of internal organs with abdominal CT scans
 * skimage - version 0.16.2
 * sklearn - version 0.22
 * plotly - version 4.4.1
+
+>**Install Requirements:**
+Ubuntu 18.04.3 LTS x64 
