@@ -1,5 +1,5 @@
 # Segmentation
-Segmentation of the lungs from the images of the main study of a computer tomograph using the analysis of the values of the absorbed X-ray radiation in voxels
+Segmentation of the lungs from the images of the main study of a computer tomograph using the analysis of the values of the absorbed X-ray radiation in voxels.
 
 >**Install Requirements:** 
 * Python – version 3.8.1
